@@ -1,6 +1,4 @@
 <!DOCTYPE html>
-<!-- doctype informa ao agente de usuario a versão do html que deve ser
-     renderizada -->
 <html lang="pt-br">
 
 <head>
